@@ -3,7 +3,7 @@ t2 = 0
 t3 = 0
 
 function setup() {
-	createCanvas(displayWidth, displayHeight)
+	createCanvas(window.innerWidth, window.innerHeight)
 	background(0)
 	setFrameRate(60)
 }
