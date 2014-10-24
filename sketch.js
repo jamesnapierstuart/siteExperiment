@@ -24,3 +24,7 @@ function draw() {
 	t2+=0.001
 	t3+=0.1
 }
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
