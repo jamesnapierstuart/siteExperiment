@@ -1,0 +1,233 @@
+/* Small devices (phones, 0px and up) */
+@media (min-width: 0px) { 
+    body {
+        
+        background-color: black;
+        
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+/*   font-weight: 300;*/
+    font-size: 100%;
+}
+    
+    img{
+    max-width:100%;
+        max-height: 100%;
+    padding:0; margin:0;
+         position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 15%;
+}
+    
+    h1 {
+    font-weight:normal;
+    letter-spacing: 0.65em;
+    font-size: 1.2em;
+}
+    
+    h2 {
+    font-weight:normal;
+    letter-spacing: 0.3em;
+    font-size: 0.7em;
+}
+    
+#name {
+    color: white;
+/*    width: 90%;*/
+    margin: .4em auto;
+    text-align: center;
+/*    font-size: 500%;*/
+    position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 5%;
+    z-index: 2;
+}
+    
+#profession {
+    color: #bebebe;
+    margin: .8em auto;
+/*    text-align: center;*/
+/*    font-size: 500%;*/
+/*    position: absolute;*/
+    text-align: center;
+     position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 9%;
+    z-index: 1;
+}
+
+}    
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+        body {
+        
+        background-color: black;
+        
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+/*   font-weight: 300;*/
+    font-size: 100%;
+}
+    
+        img{
+    max-width:100%;
+    padding:0; margin:0;
+         position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 15%;
+}
+    
+    h1 {
+    font-weight:normal;
+    letter-spacing: 0.75em;
+    font-size: 1.6em;
+}
+    
+    h2 {
+    font-weight:normal;
+    letter-spacing: 0.5em;
+    font-size: 0.85em;
+}
+    
+    #name {
+    color: white;
+/*    width: 90%;*/
+    margin: .4em auto;
+    text-align: center;
+/*    font-size: 500%;*/
+    position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 5%;
+    z-index: 2;
+}
+    
+#profession {
+    color: #bebebe;
+    margin: .8em auto;
+/*    text-align: center;*/
+/*    font-size: 500%;*/
+/*    position: absolute;*/
+    text-align: center;
+     position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 11%;
+    z-index: 1;
+}
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+body {
+        background-color: black;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+/*   font-weight: 300;*/
+    font-size: 100%;
+    
+    background-color: black;
+}
+
+img{
+    max-width:100%;
+    max-height: 100%;
+    padding:0; margin:0;
+         position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 15%;
+}
+    
+    
+#menu {
+/*             position: absolute;*/
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+width: 10px;
+    top: 0%;
+    z-index: 3;
+}
+    
+    
+    
+
+    h1 {
+    font-weight:normal;
+    letter-spacing: 0.7em;
+    font-size: 2em;
+}
+
+    h2 {
+    font-weight:normal;
+    letter-spacing: 0.5em;
+    font-size: 1em;
+}
+
+    #name {
+    color: white;
+/*    width: 90%;*/
+    margin: .4em auto;
+    text-align: center;
+/*    font-size: 500%;*/
+    position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 5%;
+    z-index: 2;
+}
+
+#profession {
+    color: #bebebe;
+    margin: .8em auto;
+/*    text-align: center;*/
+/*    font-size: 500%;*/
+/*    position: absolute;*/
+    text-align: center;
+     position: absolute;
+/*margin-left: auto;*/
+/*margin-right: auto;*/
+left: 0%;
+right: 0;
+    top: 12%;
+    z-index: 1;
+}
+    
+
+
+}
+
+
+
+
+
+
+
+
